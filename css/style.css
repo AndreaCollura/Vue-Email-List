@@ -7,3 +7,14 @@
     border: 1px solid red;
 }
 
+body{
+    background: url('https://i.pinimg.com/originals/cb/c4/fc/cbc4fc7d0820b2d08dc893458aaf7b5c.jpg');
+}
+
+h1, i{
+    color: gold;
+}
+
+li{
+    color: beige;
+}

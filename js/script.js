@@ -6,6 +6,7 @@ createApp({
         return {
             randomMail: []
 
+
         }
     },
     methods: {
@@ -15,10 +16,11 @@ createApp({
                     console.log(mail.data.response);
                     
                     this.randomMail.push(mail.data.response);
+
                     });
                 this.randomMail = [];
                 
-                
+                    
             }
             
             
